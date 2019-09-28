@@ -1,0 +1,13 @@
+## KM44 Datenschutzerklärung 
+
+Die Datenverarbeitung der KM44 Anwendung findet vollständig lokal auf dem Gerät des Anwenders statt.
+KM44 benötigt dazu Zugriff auf die Standortinformation des Gerätes. 
+Anhand dieser Information berechnet KM44 den Gewässerabschnitt im Netz der Bundeswassetrassen der Bundesrepublik Deutschland (Flusskilometer) auf dem sich das 
+Gerät des Anwenders befindet. Ausgangsdaten, berechnete oder anderweitig abgeleitete Informationen werden 
+soweit es zum Betrieb der Anwendung notwendig ist, innerhalb der Anwendung zwischengespeichert. Personenbezogenen 
+Daten sind zum Betrieb der Anwendung nicht erforderlich, werden nicht erhoben und somit nicht an den Hersteller
+oder dritte weitergeleitet.
+
+Eine Datenübertragung (Upload) auf Server des Entwicklers der Anwendung ist weder intendiert noch vorgesehen.
+
+**Stand:** 29. September 2019
