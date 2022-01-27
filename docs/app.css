@@ -1,0 +1,18 @@
+:root {
+    --lr-padding: 8px;
+}
+* {
+    font-family: Verdana, Arial, sans-serif;
+    font-style: normal;
+    font-weight: light;
+    box-sizing: border-box;
+}
+
+body {
+    padding-left:  var(--lr-padding);
+    padding-right: var(--lr-padding);
+}
+
+p {
+    text-align: left !important;
+}
